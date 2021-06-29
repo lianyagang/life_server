@@ -1,0 +1,16 @@
+server:
+  port: 18888
+
+spring:
+  application:
+    name: life-authentication
+  cloud:
+    nacos:
+      server-addr: 47.98.200.125:8848
+      discovery:
+        server-addr: 47.98.200.125:8848
+      config:
+        server-addr: 47.98.200.125:8848
+        file-extension: yaml
+
+

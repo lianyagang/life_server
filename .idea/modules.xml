@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro-zero-mall.iml" filepath="$PROJECT_DIR$/micro-zero-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-admin/zero-admin.iml" filepath="$PROJECT_DIR$/zero-admin/zero-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-admin/zero-admin-api/zero-admin-api.iml" filepath="$PROJECT_DIR$/zero-admin/zero-admin-api/zero-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-admin/zero-admin-web/zero-admin-web.iml" filepath="$PROJECT_DIR$/zero-admin/zero-admin-web/zero-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-iaas/zero-authentication/zero-authentication.iml" filepath="$PROJECT_DIR$/zero-iaas/zero-authentication/zero-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-bitpay/zero-bitpay.iml" filepath="$PROJECT_DIR$/zero-bitpay/zero-bitpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-bitpay/zero-bitpay-api/zero-bitpay-api.iml" filepath="$PROJECT_DIR$/zero-bitpay/zero-bitpay-api/zero-bitpay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-bitpay/zero-bitpay-web/zero-bitpay-web.iml" filepath="$PROJECT_DIR$/zero-bitpay/zero-bitpay-web/zero-bitpay-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-cart/zero-cart.iml" filepath="$PROJECT_DIR$/zero-cart/zero-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-cart/zero-cart-api/zero-cart-api.iml" filepath="$PROJECT_DIR$/zero-cart/zero-cart-api/zero-cart-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-cart/zero-cart-web/zero-cart-web.iml" filepath="$PROJECT_DIR$/zero-cart/zero-cart-web/zero-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-comment/zero-comment.iml" filepath="$PROJECT_DIR$/zero-comment/zero-comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-comment/zero-comment-api/zero-comment-api.iml" filepath="$PROJECT_DIR$/zero-comment/zero-comment-api/zero-comment-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-comment/zero-comment-web/zero-comment-web.iml" filepath="$PROJECT_DIR$/zero-comment/zero-comment-web/zero-comment-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-core/zero-core.iml" filepath="$PROJECT_DIR$/zero-core/zero-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-erp/zero-erp.iml" filepath="$PROJECT_DIR$/zero-erp/zero-erp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-erp/zero-erp-api/zero-erp-api.iml" filepath="$PROJECT_DIR$/zero-erp/zero-erp-api/zero-erp-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-erp/zero-erp-web/zero-erp-web.iml" filepath="$PROJECT_DIR$/zero-erp/zero-erp-web/zero-erp-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-finance/zero-finance.iml" filepath="$PROJECT_DIR$/zero-finance/zero-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-finance/zero-finance-api/zero-finance-api.iml" filepath="$PROJECT_DIR$/zero-finance/zero-finance-api/zero-finance-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-finance/zero-finance-web/zero-finance-web.iml" filepath="$PROJECT_DIR$/zero-finance/zero-finance-web/zero-finance-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-iaas/zero-gateway/zero-gateway.iml" filepath="$PROJECT_DIR$/zero-iaas/zero-gateway/zero-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-home/zero-home.iml" filepath="$PROJECT_DIR$/zero-home/zero-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-home/zero-home-api/zero-home-api.iml" filepath="$PROJECT_DIR$/zero-home/zero-home-api/zero-home-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-home/zero-home-web/zero-home-web.iml" filepath="$PROJECT_DIR$/zero-home/zero-home-web/zero-home-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-iaas/zero-iaas.iml" filepath="$PROJECT_DIR$/zero-iaas/zero-iaas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-member/zero-member.iml" filepath="$PROJECT_DIR$/zero-member/zero-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-member/zero-member-api/zero-member-api.iml" filepath="$PROJECT_DIR$/zero-member/zero-member-api/zero-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-member/zero-member-web/zero-member-web.iml" filepath="$PROJECT_DIR$/zero-member/zero-member-web/zero-member-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-message/zero-message.iml" filepath="$PROJECT_DIR$/zero-message/zero-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-message/zero-message-api/zero-message-api.iml" filepath="$PROJECT_DIR$/zero-message/zero-message-api/zero-message-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-message/zero-message-web/zero-message-web.iml" filepath="$PROJECT_DIR$/zero-message/zero-message-web/zero-message-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-order/zero-order.iml" filepath="$PROJECT_DIR$/zero-order/zero-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-order/zero-order-api/zero-order-api.iml" filepath="$PROJECT_DIR$/zero-order/zero-order-api/zero-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-order/zero-order-web/zero-order-web.iml" filepath="$PROJECT_DIR$/zero-order/zero-order-web/zero-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-oss/zero-oss.iml" filepath="$PROJECT_DIR$/zero-oss/zero-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-pay/zero-pay.iml" filepath="$PROJECT_DIR$/zero-pay/zero-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-pay/zero-pay-api/zero-pay-api.iml" filepath="$PROJECT_DIR$/zero-pay/zero-pay-api/zero-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-pay/zero-pay-web/zero-pay-web.iml" filepath="$PROJECT_DIR$/zero-pay/zero-pay-web/zero-pay-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-product/zero-product.iml" filepath="$PROJECT_DIR$/zero-product/zero-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-product/zero-product-api/zero-product-api.iml" filepath="$PROJECT_DIR$/zero-product/zero-product-api/zero-product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-product/zero-product-web/zero-product-web.iml" filepath="$PROJECT_DIR$/zero-product/zero-product-web/zero-product-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-promotion/zero-promotion.iml" filepath="$PROJECT_DIR$/zero-promotion/zero-promotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-promotion/zero-promotion-api/zero-promotion-api.iml" filepath="$PROJECT_DIR$/zero-promotion/zero-promotion-api/zero-promotion-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-promotion/zero-promotion-web/zero-promotion-web.iml" filepath="$PROJECT_DIR$/zero-promotion/zero-promotion-web/zero-promotion-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-purchase/zero-purchase.iml" filepath="$PROJECT_DIR$/zero-purchase/zero-purchase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-purchase/zero-purchase-api/zero-purchase-api.iml" filepath="$PROJECT_DIR$/zero-purchase/zero-purchase-api/zero-purchase-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-purchase/zero-purchase-web/zero-purchase-web.iml" filepath="$PROJECT_DIR$/zero-purchase/zero-purchase-web/zero-purchase-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-push/zero-push.iml" filepath="$PROJECT_DIR$/zero-push/zero-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-push/zero-push-api/zero-push-api.iml" filepath="$PROJECT_DIR$/zero-push/zero-push-api/zero-push-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-push/zero-push-web/zero-push-web.iml" filepath="$PROJECT_DIR$/zero-push/zero-push-web/zero-push-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-search/zero-search.iml" filepath="$PROJECT_DIR$/zero-search/zero-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-search/zero-search-api/zero-search-api.iml" filepath="$PROJECT_DIR$/zero-search/zero-search-api/zero-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-search/zero-search-web/zero-search-web.iml" filepath="$PROJECT_DIR$/zero-search/zero-search-web/zero-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-statistics/zero-statistics.iml" filepath="$PROJECT_DIR$/zero-statistics/zero-statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-statistics/zero-statistics-api/zero-statistics-api.iml" filepath="$PROJECT_DIR$/zero-statistics/zero-statistics-api/zero-statistics-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-statistics/zero-statistics-web/zero-statistics-web.iml" filepath="$PROJECT_DIR$/zero-statistics/zero-statistics-web/zero-statistics-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-task/zero-task.iml" filepath="$PROJECT_DIR$/zero-task/zero-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-wms/zero-wms.iml" filepath="$PROJECT_DIR$/zero-wms/zero-wms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-wms/zero-wms-api/zero-wms-api.iml" filepath="$PROJECT_DIR$/zero-wms/zero-wms-api/zero-wms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-wms/zero-wms-web/zero-wms-web.iml" filepath="$PROJECT_DIR$/zero-wms/zero-wms-web/zero-wms-web.iml" />
+    </modules>
+  </component>
+</project>

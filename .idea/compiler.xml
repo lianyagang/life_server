@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zero-home-api" />
+        <module name="zero-push" />
+        <module name="zero-authentication" />
+        <module name="zero-message-web" />
+        <module name="zero-bitpay" />
+        <module name="zero-message" />
+        <module name="zero-product-web" />
+        <module name="zero-product" />
+        <module name="zero-order-web" />
+        <module name="zero-task" />
+        <module name="zero-bitpay-web" />
+        <module name="zero-admin-api" />
+        <module name="zero-search-web" />
+        <module name="zero-finance-web" />
+        <module name="zero-search" />
+        <module name="zero-finance" />
+        <module name="zero-member-web" />
+        <module name="zero-member-api" />
+        <module name="zero-product-api" />
+        <module name="zero-cart" />
+        <module name="zero-pay" />
+        <module name="zero-pay-web" />
+        <module name="zero-gateway" />
+        <module name="zero-search-api" />
+        <module name="zero-finance-api" />
+        <module name="zero-erp-api" />
+        <module name="zero-core" />
+        <module name="zero-promotion-api" />
+        <module name="zero-promotion" />
+        <module name="zero-bitpay-api" />
+        <module name="zero-oss" />
+        <module name="zero-cart-web" />
+        <module name="zero-erp-web" />
+        <module name="zero-pay-api" />
+        <module name="zero-push-web" />
+        <module name="zero-iaas" />
+        <module name="zero-statistics" />
+        <module name="zero-comment-web" />
+        <module name="zero-wms-web" />
+        <module name="zero-order" />
+        <module name="zero-purchase" />
+        <module name="zero-push-api" />
+        <module name="zero-promotion-web" />
+        <module name="zero-statistics-api" />
+        <module name="zero-statistics-web" />
+        <module name="zero-home-web" />
+        <module name="zero-purchase-api" />
+        <module name="zero-purchase-web" />
+        <module name="zero-order-api" />
+        <module name="zero-comment-api" />
+        <module name="zero-cart-api" />
+        <module name="zero-wms-api" />
+        <module name="zero-home" />
+        <module name="zero-admin-web" />
+        <module name="zero-message-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="micro-zero-mall" target="1.8" />
+      <module name="zero-admin" target="1.8" />
+      <module name="zero-admin-api" target="1.8" />
+      <module name="zero-admin-web" target="1.8" />
+      <module name="zero-authentication" target="1.8" />
+      <module name="zero-bitpay" target="1.8" />
+      <module name="zero-bitpay-api" target="1.8" />
+      <module name="zero-bitpay-web" target="1.8" />
+      <module name="zero-cart" target="1.8" />
+      <module name="zero-cart-api" target="1.8" />
+      <module name="zero-cart-web" target="1.8" />
+      <module name="zero-comment" target="1.8" />
+      <module name="zero-comment-api" target="1.8" />
+      <module name="zero-comment-web" target="1.8" />
+      <module name="zero-core" target="1.8" />
+      <module name="zero-erp" target="1.8" />
+      <module name="zero-erp-api" target="1.8" />
+      <module name="zero-erp-web" target="1.8" />
+      <module name="zero-finance" target="1.8" />
+      <module name="zero-finance-api" target="1.8" />
+      <module name="zero-finance-web" target="1.8" />
+      <module name="zero-gateway" target="1.8" />
+      <module name="zero-home" target="1.8" />
+      <module name="zero-home-api" target="1.8" />
+      <module name="zero-home-web" target="1.8" />
+      <module name="zero-iaas" target="1.8" />
+      <module name="zero-member" target="1.8" />
+      <module name="zero-member-api" target="1.8" />
+      <module name="zero-member-web" target="1.8" />
+      <module name="zero-message" target="1.8" />
+      <module name="zero-message-api" target="1.8" />
+      <module name="zero-message-web" target="1.8" />
+      <module name="zero-order" target="1.8" />
+      <module name="zero-order-api" target="1.8" />
+      <module name="zero-order-web" target="1.8" />
+      <module name="zero-oss" target="1.8" />
+      <module name="zero-pay" target="1.8" />
+      <module name="zero-pay-api" target="1.8" />
+      <module name="zero-pay-web" target="1.8" />
+      <module name="zero-product" target="1.8" />
+      <module name="zero-product-api" target="1.8" />
+      <module name="zero-product-web" target="1.8" />
+      <module name="zero-promotion" target="1.8" />
+      <module name="zero-promotion-api" target="1.8" />
+      <module name="zero-promotion-web" target="1.8" />
+      <module name="zero-purchase" target="1.8" />
+      <module name="zero-purchase-api" target="1.8" />
+      <module name="zero-purchase-web" target="1.8" />
+      <module name="zero-push" target="1.8" />
+      <module name="zero-push-api" target="1.8" />
+      <module name="zero-push-web" target="1.8" />
+      <module name="zero-search" target="1.8" />
+      <module name="zero-search-api" target="1.8" />
+      <module name="zero-search-web" target="1.8" />
+      <module name="zero-statistics" target="1.8" />
+      <module name="zero-statistics-api" target="1.8" />
+      <module name="zero-statistics-web" target="1.8" />
+      <module name="zero-task" target="1.8" />
+      <module name="zero-wms" target="1.8" />
+      <module name="zero-wms-api" target="1.8" />
+      <module name="zero-wms-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="zero-admin-api" options="-parameters" />
+      <module name="zero-admin-web" options="-parameters" />
+      <module name="zero-authentication" options="-parameters" />
+      <module name="zero-bitpay" options="-parameters" />
+      <module name="zero-bitpay-api" options="-parameters" />
+      <module name="zero-bitpay-web" options="-parameters" />
+      <module name="zero-cart" options="-parameters" />
+      <module name="zero-cart-api" options="-parameters" />
+      <module name="zero-cart-web" options="-parameters" />
+      <module name="zero-comment-api" options="-parameters" />
+      <module name="zero-comment-web" options="-parameters" />
+      <module name="zero-core" options="-parameters" />
+      <module name="zero-erp-api" options="-parameters" />
+      <module name="zero-erp-web" options="-parameters" />
+      <module name="zero-finance" options="-parameters" />
+      <module name="zero-finance-api" options="-parameters" />
+      <module name="zero-finance-web" options="-parameters" />
+      <module name="zero-gateway" options="-parameters" />
+      <module name="zero-home" options="-parameters" />
+      <module name="zero-home-api" options="-parameters" />
+      <module name="zero-home-web" options="-parameters" />
+      <module name="zero-iaas" options="-parameters" />
+      <module name="zero-member-api" options="-parameters" />
+      <module name="zero-member-web" options="-parameters" />
+      <module name="zero-message" options="-parameters" />
+      <module name="zero-message-api" options="-parameters" />
+      <module name="zero-message-web" options="-parameters" />
+      <module name="zero-order" options="-parameters" />
+      <module name="zero-order-api" options="-parameters" />
+      <module name="zero-order-web" options="-parameters" />
+      <module name="zero-oss" options="-parameters" />
+      <module name="zero-pay" options="-parameters" />
+      <module name="zero-pay-api" options="-parameters" />
+      <module name="zero-pay-web" options="-parameters" />
+      <module name="zero-product" options="-parameters" />
+      <module name="zero-product-api" options="-parameters" />
+      <module name="zero-product-web" options="-parameters" />
+      <module name="zero-promotion" options="-parameters" />
+      <module name="zero-promotion-api" options="-parameters" />
+      <module name="zero-promotion-web" options="-parameters" />
+      <module name="zero-purchase" options="-parameters" />
+      <module name="zero-purchase-api" options="-parameters" />
+      <module name="zero-purchase-web" options="-parameters" />
+      <module name="zero-push" options="-parameters" />
+      <module name="zero-push-api" options="-parameters" />
+      <module name="zero-push-web" options="-parameters" />
+      <module name="zero-search" options="-parameters" />
+      <module name="zero-search-api" options="-parameters" />
+      <module name="zero-search-web" options="-parameters" />
+      <module name="zero-statistics" options="-parameters" />
+      <module name="zero-statistics-api" options="-parameters" />
+      <module name="zero-statistics-web" options="-parameters" />
+      <module name="zero-task" options="-parameters" />
+      <module name="zero-wms-api" options="-parameters" />
+      <module name="zero-wms-web" options="-parameters" />
+    </option>
+  </component>
+</project>
