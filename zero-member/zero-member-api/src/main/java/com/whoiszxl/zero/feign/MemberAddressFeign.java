@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.List;
 
-@FeignClient(name = "zero-member-web", contextId = "memberAddressFeign", configuration = OAuth2FeignConfig.class, path = "/address")
+@FeignClient(name = "life-member-web", contextId = "memberAddressFeign", configuration = OAuth2FeignConfig.class, path = "/address")
 public interface MemberAddressFeign {
 
     @GetMapping("/list")
