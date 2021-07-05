@@ -1,6 +1,6 @@
 spring:
   application:
-    name: life-promotion-web
+    name: zero-promotion-web
   profiles:
     active: dev
   cloud:

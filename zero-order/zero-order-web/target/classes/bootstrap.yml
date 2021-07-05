@@ -5,9 +5,9 @@ spring:
     active: dev
   cloud:
     nacos:
-      server-addr: aliyun.whoiszxl.com:8848
+      server-addr: 47.98.200.125:8848
       config:
-        server-addr: aliyun.whoiszxl.com:8848
+        server-addr: 47.98.200.125:8848
         file-extension: yaml
 
 

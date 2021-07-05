@@ -1,6 +1,6 @@
 spring:
   application:
-    name: life-order-web
+    name: zero-order-web
   profiles:
     active: dev
   cloud:

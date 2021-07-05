@@ -57,8 +57,8 @@ spring:
           filters:
             - StripPrefix=1
 
-        - id: life-member-web_router
-          uri: lb://life-member-web
+        - id: zero-member-web_router
+          uri: lb://zero-member-web
           predicates:
             - Path=/member/**
           filters:

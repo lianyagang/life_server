@@ -1,6 +1,6 @@
 spring:
   application:
-    name: life-product-web
+    name: zero-product-web
   profiles:
     active: dev
   cloud:

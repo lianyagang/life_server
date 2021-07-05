@@ -1,6 +1,6 @@
 spring:
   application:
-    name: life-cart-web
+    name: zero-cart-web
   profiles:
     active: dev
   cloud:

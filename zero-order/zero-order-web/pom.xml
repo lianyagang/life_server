@@ -39,7 +39,7 @@
         </dependency>
         <dependency>
             <groupId>com.whoiszxl.zero</groupId>
-            <artifactId>life-member-api</artifactId>
+            <artifactId>zero-member-api</artifactId>
             <version>0.0</version>
             <scope>compile</scope>
         </dependency>

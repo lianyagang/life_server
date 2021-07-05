@@ -147,7 +147,7 @@
     <modules>
         <module>zero-task</module>
         <module>zero-core</module>
-        <module>life-member</module>
+        <module>zero-member</module>
         <module>zero-order</module>
         <module>zero-promotion</module>
         <module>zero-bitpay</module>

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@FeignClient(value = "life-authentication")
+@FeignClient(value = "zero-authentication")
 public interface OAuth2FeignClient {
 
     @PostMapping("/oauth/token")

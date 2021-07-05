@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>life-member</artifactId>
+    <artifactId>zero-member</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>life-member-web</module>
-        <module>life-member-api</module>
+        <module>zero-member-web</module>
+        <module>zero-member-api</module>
     </modules>
 
 
