@@ -5,9 +5,9 @@ spring:
     name: life-gateway
   cloud:
     nacos:
-      server-addr: 47.98.200.125:8848
+      server-addr: 101.34.66.110:8848
       config:
-        server-addr: 47.98.200.125:8848
+        server-addr: 101.34.66.110:8848
         file-extension: yaml
     gateway:
       discovery:
@@ -158,10 +158,10 @@ spring:
         dashboard: 159.75.31.203:8858
       datasource:
         ds1.nacos:
-          serverAddr: 47.98.200.125:8848
+          serverAddr: 101.34.66.110:8848
           dataId: gw-flow
           ruleType: gw_flow
         ds2.nacos:
-          serverAddr: 47.98.200.125:8848
+          serverAddr: 101.34.66.110:8848
           dataId: api-group
           ruleType: gw_api_group
